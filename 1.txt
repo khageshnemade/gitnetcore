@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 JJdfhhfhrehferg v rvr bvr bv rbrb rhh 
+=======
+dfhhfhrehferg v rvr bvr bv rbrb r 
+This line is added usign gui
+>>>>>>> f089ee6ef96a4c1ddcdde67f0be285e19dcb19b6
