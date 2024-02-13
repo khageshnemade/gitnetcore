@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Test fi;e
 this is master branch
+=======
+My new File
+>>>>>>> test
